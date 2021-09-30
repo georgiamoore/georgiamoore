@@ -1,6 +1,7 @@
 ### Hi! I'm Felix 👋✨
 
 Placement Software Engineer @ Kainos
+
 BSc Computer Science @ Aston University
 
 🌱 **Experience:**
