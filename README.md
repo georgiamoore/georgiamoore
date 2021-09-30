@@ -1,20 +1,20 @@
 ### Hi! I'm Felix 👋✨
 
-- Placement Software Engineer @ Kainos
-- BSc Computer Science @ Aston University
+Placement Software Engineer @ Kainos
+BSc Computer Science @ Aston University
 
-- 🌱 **Experience:**
+🌱 **Experience:**
   - Java
   - JavaScript & Node.js
   - Laravel, Nunjucks, HTML, CSS
   - MySQL
   - OpenGL
   
-- 🔭 **Currently learning:**
+🔭 **Currently learning:**
   - Python
   - Angular
 
-- 📫 **How to reach me:**
+📫 **How to reach me:**
   - [LinkedIn](https://linkedin.com/in/felixmoore)
 <!--
 **felixmoore/felixmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
