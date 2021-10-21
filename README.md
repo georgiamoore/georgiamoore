@@ -9,8 +9,8 @@
   - Laravel, Nunjucks, HTML, CSS 
   - MySQL [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixmoore&theme=dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats) 
   
-### 🔭 **Currently learning** [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmoore&theme=dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
-  - Python, pandas, Seaborn
+### 🔭 **Currently learning** 
+  - Python, pandas, Seaborn [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmoore&theme=dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
   - Angular, React
 
 ### 📫 **How to reach me**   
