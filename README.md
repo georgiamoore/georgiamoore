@@ -6,8 +6,8 @@
 ### 🌱 **Experience** [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=felixmoore&theme=dark&show_icons=true&hide=stars,issues&include_all_commits=true">](https://metrics.lecoq.io/felixmoore?template=classic)  
   - Java
   - JavaScript & Node.js 
-  - Laravel, Nunjucks, HTML, CSS [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixmoore&theme=dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats) 
-  - MySQL
+  - Laravel, Nunjucks, HTML, CSS 
+  - MySQL [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixmoore&theme=dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats) 
   
 ### 🔭 **Currently learning** [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmoore&theme=dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
   - Python, pandas, Seaborn
