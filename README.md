@@ -2,19 +2,19 @@
 
 * Placement Software Engineer @ **Kainos**   
 * BSc Computer Science @ **Aston University**  
-### 🌱 **Experience** [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=felixmoore&theme=github_dark&show_icons=true&hide=stars,issues&include_all_commits=true">](https://metrics.lecoq.io/felixmoore?template=classic)  
+### 🌱 **Experience** [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=felixmoore&theme=radical&show_icons=true&hide=stars,issues&include_all_commits=true">](https://metrics.lecoq.io/felixmoore?template=classic)  
   - Java
   - JavaScript & Node.js 
   - Laravel, Nunjucks, HTML, CSS 
   - MySQL
 
-### 🔭 **Currently learning** [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixmoore&theme=github_dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats) 
+### 🔭 **Currently learning** [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmoore&theme=radical&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
   - Python, pandas, Seaborn 
   - Angular, React
 
-### 📫 **How to reach me**    [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmoore&theme=github_dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+### 📫 **How to reach me**    
   - [LinkedIn](https://linkedin.com/in/felixmoore)  
-
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixmoore&theme=radical">](https://github.com/anuraghazra/github-readme-stats) 
 ### ⚡ **Fun fact** 
   - I've been to 20+ concerts! I love live music :) 🎵
 
