@@ -7,8 +7,8 @@
   - JavaScript & Node.js 
   - Laravel, Nunjucks, HTML, CSS 
   - MySQL
-
-### 🔭 **Currently learning** [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmoore&theme=radical&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmoore&theme=radical&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 **Currently learning** 
   - Python, pandas, Seaborn 
   - Angular, React
 
