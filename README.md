@@ -13,9 +13,9 @@
   - Python, pandas, Seaborn 
   - Angular, React
 
-### 📫 **How to reach me**    
+### 📫 **How to reach me**    [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixmoore&theme=radical">](https://github.com/anuraghazra/github-readme-stats) 
   - [LinkedIn](https://linkedin.com/in/felixmoore)  
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixmoore&theme=radical">](https://github.com/anuraghazra/github-readme-stats) 
+
 ### ⚡ **Fun fact** 
   - I've been to 20+ concerts! I love live music :) 🎵
 
