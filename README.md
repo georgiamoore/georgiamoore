@@ -1,31 +1,40 @@
 ## <p align="center">Hi! I'm [Felix](https://felixmoore.github.io/) 👋✨</p>
-
-* Placement Software Engineer @ **Kainos**   
-* BSc Computer Science @ **Aston University**  
-
-![](https://github.com/felixmoore/stats/blob/master/generated/overview.svg)
-![](https://github.com/felixmoore/stats/blob/master/generated/languages.svg)
-### 🌱 **Experience** 
-  - Java
-  - JavaScript & Node.js 
-  - Laravel, Nunjucks, HTML, CSS 
-  - MySQL
-
-### 🔭 **Currently learning** 
-  - Python, pandas, Seaborn 
-  - Angular, React
-
-### 📫 **How to reach me**    
-  - [LinkedIn](https://linkedin.com/in/felixmoore)  
+<div align="center">
+  <p>Placement Software Engineer @ <b>Kainos</b></p>
+  <p>BSc Computer Science @ <b>Aston University</b></p>
 
 
-### ⚡ **Fun fact** 
-  - I've been to 20+ concerts! I love live music :) 🎵
+  <table border ="0" align="center"> 
+    <th>🌱 Experience</th>
+    <th>🔭 Currently learning</th>
+    <th>📫 How to reach me</th>
+    <tr>
+      <td> 
+        <ul>
+          <li>Java</li>
+          <li>JavaScript & Node.js</li>
+          <li>Laravel, Nunjucks, HTML, CSS</li>
+          <li>MySQL</li>
+        </ul>
+      </td>
+      <td> 
+        <ul>
+          <li>Python, pandas, Seaborn </li>
+          <li>Angular, React</li>
+        </ul>
+      </td>
+      <td> 
+        <ul>
+          <li><a href="https://linkedin.com/in/felixmoore">LinkedIn</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github.com/felixmoore/stats/blob/master/generated/overview.svg">
+  <img src="https://github.com/felixmoore/stats/blob/master/generated/languages.svg">
+</div>
 
-### 💬 **Talk to me about** 
-  - Formula 1!
-  - Music
-  - Video games
 
 
 <!--
