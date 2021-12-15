@@ -31,8 +31,7 @@
     </tr>
   </table>
   
-  <img src="https://github.com/felixmoore/stats/blob/master/generated/overview.svg">
-  <img src="https://github.com/felixmoore/stats/blob/master/generated/languages.svg">
+  <img src="https://github.com/felixmoore/felixmoore/blob/main/github-metrics.svg">
 </div>
 
 
